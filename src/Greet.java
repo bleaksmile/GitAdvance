@@ -1,7 +1,7 @@
 public class Greet {
-  public static void greet(String a, String b){
-    String greettype = "Good morning,";
-    String name = "girls.";
-    System.out.println(a+" "+b);
+
+
+  public static void greet(String param){
+    System.out.println("Greetings for the " + param);
   }
 }
