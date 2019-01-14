@@ -1,6 +1,8 @@
 public class Future {
 
-    public static void future(String a, String b) {
-        System.out.println(a + b);
+Zsuzsa-twoparam
+    public static void future(String horoscope) {
+        System.out.println("Your future looks like" + horoscope);
     }
 }
+
