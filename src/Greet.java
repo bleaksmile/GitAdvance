@@ -1,6 +1,6 @@
 public class Greet {
 
-  public static String greet(){
-    return "Hello, ladies";
+  public static void greet(){
+    System.out.println("Greetings!");
   }
 }
