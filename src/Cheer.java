@@ -1,6 +1,6 @@
 public class Cheer {
 
-  public static void cheer(){
-    System.out.println("Java!!!");
+  public static void cheer(String s){
+    System.out.println("Cheer for the " + s);
   }
 }
