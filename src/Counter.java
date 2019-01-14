@@ -1,7 +1,7 @@
 public class Counter {
 
-    public static void count() {
-        System.out.println(4);
+    public static void count(int age) {
+        System.out.println("Counting the countless " + age);
     }
 
 }
