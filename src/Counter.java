@@ -1,7 +1,7 @@
 public class Counter {
 
-    public static void count(int age) {
-        System.out.println(age);
+    public static void count() {
+        System.out.println(4);
     }
 
 }
